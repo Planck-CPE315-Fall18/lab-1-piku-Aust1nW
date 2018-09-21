@@ -2,6 +2,12 @@
 
 ## Things to include in your README
 
+Austin Woo
+Lab Completed
+gcc -o piku piku.s
+No issues
+
+
 * Your name. Indicate if you go by a nickname.
 * Status of your lab
   * Complete, partially complete, incomplete
