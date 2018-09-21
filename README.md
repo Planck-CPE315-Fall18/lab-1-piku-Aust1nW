@@ -5,6 +5,7 @@
 Austin Woo
 Lab Completed
 gcc -o piku piku.s
+./piku
 No issues
 
 
