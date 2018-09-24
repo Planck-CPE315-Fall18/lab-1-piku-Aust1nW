@@ -2,11 +2,11 @@
 
 ## Things to include in your README
 
-Austin Woo\n
-Lab Completed\n
-gcc -o piku piku.s\n
-./piku\n
-No issues\n
+Austin Woo
+Lab Completed
+gcc -o piku piku.s
+./piku
+No issues
 
 
 * Your name. Indicate if you go by a nickname.
